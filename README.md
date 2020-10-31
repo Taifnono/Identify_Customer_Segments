@@ -6,9 +6,9 @@ The data is provided by Bertelsmann partners AZ Direct and Arvato Financial Solu
 
 Steps of the project as follows:
 
--Load The data
--Preprocessing (Data Cleaning & engineering)
--Feature Transformation (feature scaling and perform the PCA)
--Interpret Principal Components
--Clustering
--Compare Customer Data to Demographics Data
+- Load The data
+- Preprocessing (Data Cleaning & engineering)
+- Feature Transformation (feature scaling and perform the PCA)
+- Interpret Principal Components
+- Clustering
+- Compare Customer Data to Demographics Data
